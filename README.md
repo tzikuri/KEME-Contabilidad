@@ -1,3 +1,3 @@
 # Pronto estara disponible
 
-Este repositorio es para nuevos añadidos.
+Este repossitorio cambiara de nombre, o se borrara.
